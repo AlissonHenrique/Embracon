@@ -113,22 +113,17 @@ export  function Home({ toggleTheme }:Props) {
     <section className="container-gray" id="produto">
             <div className='container-gray-content'>
                 <div className='container-gray-content-box'>
-                    <h2>Lorem ipsum dolor </h2>
+                    <h2>Consórcio Embracon</h2>
                     <p>
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-                    Ex temporibus aliquid dolores? Incidunt, animi optio
-                    corrupti expedita saepe harum rerum beatae neque voluptatem nostrum aliquam, maxime ab? Vel, veritatis nobis?
+                    Somos o Consórcio Embracon. Cuidamos dos interesses de nossos clientes, assim como cuidamos dos nossos. Nascemos para compartilhar sonhos, e essa foi a semente que nos fez crescer junto com o Brasil.
                     </p>
                     <p>
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-                    Ex temporibus aliquid dolores? Incidunt, animi optio
-                    corrupti expedita saepe harum rerum beatae neque voluptatem nostrum aliquam, maxime ab? Vel, veritatis nobis?
+                    Trabalhamos juntos para tornar acessível o crescimento financeiro e a satisfação pessoal para todos os brasileiros, que querem reinventar seu futuro de maneira planejada.
                     </p>
                     <p>
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-                    Ex temporibus aliquid dolores? Incidunt, animi optio
-                    corrupti expedita saepe harum rerum beatae neque voluptatem nostrum aliquam, maxime ab? Vel
-                    </p>
+                    Oferecemos segurança, encantamento e cuidado em troca de confiança e gratidão.
+
+                           </p>
                 </div>
                 <div className="container-gray-content-card">
                     <img src={iconeCasa} alt="Consórcio de imóvei" />  
